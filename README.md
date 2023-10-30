@@ -4,6 +4,7 @@ CREATE DATABASE healthcare;
 -- Use the "healthcare" database
 USE healthcare;
 
+
 -- Create the "User" table for user authentication
 CREATE TABLE User (
     id INT AUTO_INCREMENT PRIMARY KEY,
